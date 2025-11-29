@@ -25,11 +25,15 @@ Download Better Lyrics for your browser:
 - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/better-lyrics/)
 - [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/better-lyrics-lyrics-for/mjfeaklppoegooljmjicjdbiccgjdlhd)
 
-## Repositories
+## Featured Repositories
 
 - [better-lyrics](https://github.com/better-lyrics/better-lyrics) The main browser extension for Chrome, Firefox, and Edge.
 
 - [api](https://github.com/better-lyrics/api) Backend API service that powers the Better Lyrics extension.
+
+- [shaders](https://github.com/better-lyrics/shaders) Beautiful background effects for YouTube Music
+
+- [kawarp](https://github.com/better-lyrics/kawarp) Fluid zero-dependency animated backgrounds powered by WebGL, Kawase blur & domain warping.
 
 - [website](https://github.com/better-lyrics/website) Official website for Better Lyrics.
 
