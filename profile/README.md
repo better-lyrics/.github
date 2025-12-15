@@ -28,17 +28,11 @@ Download Better Lyrics for your browser:
 ## Featured Repositories
 
 - [better-lyrics](https://github.com/better-lyrics/better-lyrics) The main browser extension for Chrome, Firefox, and Edge.
-
 - [api](https://github.com/better-lyrics/api) Backend API service that powers the Better Lyrics extension.
-
 - [shaders](https://github.com/better-lyrics/shaders) Beautiful background effects for YouTube Music
-
 - [kawarp](https://github.com/better-lyrics/kawarp) Fluid zero-dependency animated backgrounds powered by WebGL, Kawase blur & domain warping.
-
 - [rics](https://github.com/better-lyrics/rics) A fast, lightweight SCSS-like preprocessor for real-time compilation in browsers, editors, and build tools.
-
 - [website](https://github.com/better-lyrics/website) Official website for Better Lyrics.
-
 - [lrclibup](https://github.com/better-lyrics/lrclibup) A modern web interface for publishing lyrics to the LRCLIB database.
 
 ## Community
