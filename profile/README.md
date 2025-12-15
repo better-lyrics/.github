@@ -35,6 +35,8 @@ Download Better Lyrics for your browser:
 
 - [kawarp](https://github.com/better-lyrics/kawarp) Fluid zero-dependency animated backgrounds powered by WebGL, Kawase blur & domain warping.
 
+- [rics](https://github.com/better-lyrics/rics) A fast, lightweight SCSS-like preprocessor for real-time compilation in browsers, editors, and build tools.
+
 - [website](https://github.com/better-lyrics/website) Official website for Better Lyrics.
 
 - [lrclibup](https://github.com/better-lyrics/lrclibup) A modern web interface for publishing lyrics to the LRCLIB database.
